@@ -35,5 +35,5 @@ In this challenge, you will embark on an exciting journey to enhance your JavaSc
 - Celebrate your achievements and reflect on your growth throughout the challenge.
 
 ## Folder Structure
--  [**Day 1:**](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/convert-celsius-to-fahrenheit)
+-  [**Day 1:**](https://github.com/ramisalman1/JavaScriptLearningSprint/blob/main/Day1.md)
 
