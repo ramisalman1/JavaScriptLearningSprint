@@ -27,3 +27,27 @@ function hoistedFunction() {
   console.log("Hello, World!");
 }
 
+```
+
+
+## Coding Exercises
+
+### [Factorialize a Number](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number)
+
+#### My Solution
+
+
+```javascript
+// Example 1: Variable Hoisting
+console.log(x); // Output: undefined
+var x = 10;
+console.log(x); // Output: 10
+
+// Example 2: Function Hoisting
+hoistedFunction(); // Output: "Hello, World!"
+
+function hoistedFunction() {
+  console.log("Hello, World!");
+}
+
+```
