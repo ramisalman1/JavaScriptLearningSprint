@@ -3,7 +3,7 @@
 
 Welcome to the 20-Day Learning JavaScript Challenge! 🚀
 
-In this challenge, you will embark on an exciting journey to enhance your JavaScript skills and knowledge. Each day, you will explore different aspects of JavaScript, building a solid foundation and gaining hands-on experience through practical exercises and projects.
+In this challenge, you will enhance your JavaScript skills and knowledge. Each day, you will explore different aspects of JavaScript, building a solid foundation and gaining hands-on experience through practical exercises and projects.
 
 ## Overview
 - **Duration:** 20 days
